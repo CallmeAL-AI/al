@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  background: #08080D;
+  color: #F2EFE8;
+  font-family: 'Outfit', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400&family=Outfit:wght@400;500;600&display=swap');
